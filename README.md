@@ -8,6 +8,7 @@ All the dsa question solved by me in the leetcode
 | ------- |
 | [0007-reverse-integer](https://github.com/paraggulve2641/Leetcode_Question/tree/master/0007-reverse-integer) |
 | [0189-rotate-array](https://github.com/paraggulve2641/Leetcode_Question/tree/master/0189-rotate-array) |
+| [0877-stone-game](https://github.com/paraggulve2641/Leetcode_Question/tree/master/0877-stone-game) |
 ## Array
 |  |
 | ------- |
@@ -16,6 +17,7 @@ All the dsa question solved by me in the leetcode
 | [0189-rotate-array](https://github.com/paraggulve2641/Leetcode_Question/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/paraggulve2641/Leetcode_Question/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/paraggulve2641/Leetcode_Question/tree/master/0485-max-consecutive-ones) |
+| [0877-stone-game](https://github.com/paraggulve2641/Leetcode_Question/tree/master/0877-stone-game) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/paraggulve2641/Leetcode_Question/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## String
 |  |
@@ -31,4 +33,20 @@ All the dsa question solved by me in the leetcode
 |  |
 | ------- |
 | [0136-single-number](https://github.com/paraggulve2641/Leetcode_Question/tree/master/0136-single-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/paraggulve2641/Leetcode_Question/tree/master/0877-stone-game) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/paraggulve2641/Leetcode_Question/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/paraggulve2641/Leetcode_Question/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/paraggulve2641/Leetcode_Question/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
