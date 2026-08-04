@@ -19,6 +19,7 @@ All the dsa question solved by me in the leetcode
 | [0485-max-consecutive-ones](https://github.com/paraggulve2641/Leetcode_Question/tree/master/0485-max-consecutive-ones) |
 | [0877-stone-game](https://github.com/paraggulve2641/Leetcode_Question/tree/master/0877-stone-game) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/paraggulve2641/Leetcode_Question/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/paraggulve2641/Leetcode_Question/tree/master/2149-rearrange-array-elements-by-sign) |
 ## String
 |  |
 | ------- |
@@ -29,6 +30,7 @@ All the dsa question solved by me in the leetcode
 | [0026-remove-duplicates-from-sorted-array](https://github.com/paraggulve2641/Leetcode_Question/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/paraggulve2641/Leetcode_Question/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/paraggulve2641/Leetcode_Question/tree/master/0283-move-zeroes) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/paraggulve2641/Leetcode_Question/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -49,4 +51,8 @@ All the dsa question solved by me in the leetcode
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/paraggulve2641/Leetcode_Question/tree/master/0877-stone-game) |
+## Simulation
+|  |
+| ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/paraggulve2641/Leetcode_Question/tree/master/2149-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
