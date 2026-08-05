@@ -24,10 +24,12 @@ All the dsa question solved by me in the leetcode
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/paraggulve2641/Leetcode_Question/tree/master/0008-string-to-integer-atoi) |
+| [0125-valid-palindrome](https://github.com/paraggulve2641/Leetcode_Question/tree/master/0125-valid-palindrome) |
 ## Two Pointers
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/paraggulve2641/Leetcode_Question/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0125-valid-palindrome](https://github.com/paraggulve2641/Leetcode_Question/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/paraggulve2641/Leetcode_Question/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/paraggulve2641/Leetcode_Question/tree/master/0283-move-zeroes) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/paraggulve2641/Leetcode_Question/tree/master/2149-rearrange-array-elements-by-sign) |
