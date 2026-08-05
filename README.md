@@ -12,6 +12,7 @@ All the dsa question solved by me in the leetcode
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/paraggulve2641/Leetcode_Question/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/paraggulve2641/Leetcode_Question/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0136-single-number](https://github.com/paraggulve2641/Leetcode_Question/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/paraggulve2641/Leetcode_Question/tree/master/0189-rotate-array) |
@@ -59,4 +60,8 @@ All the dsa question solved by me in the leetcode
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/paraggulve2641/Leetcode_Question/tree/master/2149-rearrange-array-elements-by-sign) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/paraggulve2641/Leetcode_Question/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
