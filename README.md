@@ -28,6 +28,7 @@ All the dsa question solved by me in the leetcode
 | [0008-string-to-integer-atoi](https://github.com/paraggulve2641/Leetcode_Question/tree/master/0008-string-to-integer-atoi) |
 | [0125-valid-palindrome](https://github.com/paraggulve2641/Leetcode_Question/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/paraggulve2641/Leetcode_Question/tree/master/0344-reverse-string) |
+| [0680-valid-palindrome-ii](https://github.com/paraggulve2641/Leetcode_Question/tree/master/0680-valid-palindrome-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -36,6 +37,7 @@ All the dsa question solved by me in the leetcode
 | [0189-rotate-array](https://github.com/paraggulve2641/Leetcode_Question/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/paraggulve2641/Leetcode_Question/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/paraggulve2641/Leetcode_Question/tree/master/0344-reverse-string) |
+| [0680-valid-palindrome-ii](https://github.com/paraggulve2641/Leetcode_Question/tree/master/0680-valid-palindrome-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/paraggulve2641/Leetcode_Question/tree/master/0977-squares-of-a-sorted-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/paraggulve2641/Leetcode_Question/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Bit Manipulation
@@ -70,4 +72,8 @@ All the dsa question solved by me in the leetcode
 |  |
 | ------- |
 | [0977-squares-of-a-sorted-array](https://github.com/paraggulve2641/Leetcode_Question/tree/master/0977-squares-of-a-sorted-array) |
+## Greedy
+|  |
+| ------- |
+| [0680-valid-palindrome-ii](https://github.com/paraggulve2641/Leetcode_Question/tree/master/0680-valid-palindrome-ii) |
 <!---LeetCode Topics End-->
