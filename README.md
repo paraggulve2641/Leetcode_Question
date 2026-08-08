@@ -17,6 +17,7 @@ All the dsa question solved by me in the leetcode
 | [0075-sort-colors](https://github.com/paraggulve2641/Leetcode_Question/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/paraggulve2641/Leetcode_Question/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/paraggulve2641/Leetcode_Question/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/paraggulve2641/Leetcode_Question/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/paraggulve2641/Leetcode_Question/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/paraggulve2641/Leetcode_Question/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/paraggulve2641/Leetcode_Question/tree/master/0485-max-consecutive-ones) |
@@ -72,11 +73,13 @@ All the dsa question solved by me in the leetcode
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/paraggulve2641/Leetcode_Question/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/paraggulve2641/Leetcode_Question/tree/master/0169-majority-element) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/paraggulve2641/Leetcode_Question/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/paraggulve2641/Leetcode_Question/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/paraggulve2641/Leetcode_Question/tree/master/0169-majority-element) |
 | [0977-squares-of-a-sorted-array](https://github.com/paraggulve2641/Leetcode_Question/tree/master/0977-squares-of-a-sorted-array) |
 ## Greedy
 |  |
@@ -90,4 +93,16 @@ All the dsa question solved by me in the leetcode
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/paraggulve2641/Leetcode_Question/tree/master/0075-sort-colors) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/paraggulve2641/Leetcode_Question/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/paraggulve2641/Leetcode_Question/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/paraggulve2641/Leetcode_Question/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
