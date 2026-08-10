@@ -14,6 +14,7 @@ All the dsa question solved by me in the leetcode
 | ------- |
 | [0001-two-sum](https://github.com/paraggulve2641/Leetcode_Question/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/paraggulve2641/Leetcode_Question/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0053-maximum-subarray](https://github.com/paraggulve2641/Leetcode_Question/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/paraggulve2641/Leetcode_Question/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/paraggulve2641/Leetcode_Question/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/paraggulve2641/Leetcode_Question/tree/master/0136-single-number) |
@@ -52,6 +53,7 @@ All the dsa question solved by me in the leetcode
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/paraggulve2641/Leetcode_Question/tree/master/0053-maximum-subarray) |
 | [0877-stone-game](https://github.com/paraggulve2641/Leetcode_Question/tree/master/0877-stone-game) |
 ## Minimax
 |  |
@@ -96,6 +98,7 @@ All the dsa question solved by me in the leetcode
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/paraggulve2641/Leetcode_Question/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/paraggulve2641/Leetcode_Question/tree/master/0169-majority-element) |
 ## Counting
 |  |
