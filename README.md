@@ -19,6 +19,7 @@ All the dsa question solved by me in the leetcode
 | [0075-sort-colors](https://github.com/paraggulve2641/Leetcode_Question/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/paraggulve2641/Leetcode_Question/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/paraggulve2641/Leetcode_Question/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/paraggulve2641/Leetcode_Question/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/paraggulve2641/Leetcode_Question/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/paraggulve2641/Leetcode_Question/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/paraggulve2641/Leetcode_Question/tree/master/0189-rotate-array) |
@@ -79,6 +80,7 @@ All the dsa question solved by me in the leetcode
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/paraggulve2641/Leetcode_Question/tree/master/0001-two-sum) |
+| [0128-longest-consecutive-sequence](https://github.com/paraggulve2641/Leetcode_Question/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/paraggulve2641/Leetcode_Question/tree/master/0169-majority-element) |
 ## Sorting
 |  |
@@ -112,4 +114,8 @@ All the dsa question solved by me in the leetcode
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/paraggulve2641/Leetcode_Question/tree/master/0169-majority-element) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/paraggulve2641/Leetcode_Question/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
