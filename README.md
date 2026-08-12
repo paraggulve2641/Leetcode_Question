@@ -8,6 +8,7 @@ All the dsa question solved by me in the leetcode
 | ------- |
 | [0007-reverse-integer](https://github.com/paraggulve2641/Leetcode_Question/tree/master/0007-reverse-integer) |
 | [0189-rotate-array](https://github.com/paraggulve2641/Leetcode_Question/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/paraggulve2641/Leetcode_Question/tree/master/0268-missing-number) |
 | [0877-stone-game](https://github.com/paraggulve2641/Leetcode_Question/tree/master/0877-stone-game) |
 ## Array
 |  |
@@ -23,6 +24,7 @@ All the dsa question solved by me in the leetcode
 | [0136-single-number](https://github.com/paraggulve2641/Leetcode_Question/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/paraggulve2641/Leetcode_Question/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/paraggulve2641/Leetcode_Question/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/paraggulve2641/Leetcode_Question/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/paraggulve2641/Leetcode_Question/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/paraggulve2641/Leetcode_Question/tree/master/0485-max-consecutive-ones) |
 | [0877-stone-game](https://github.com/paraggulve2641/Leetcode_Question/tree/master/0877-stone-game) |
@@ -54,6 +56,7 @@ All the dsa question solved by me in the leetcode
 |  |
 | ------- |
 | [0136-single-number](https://github.com/paraggulve2641/Leetcode_Question/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/paraggulve2641/Leetcode_Question/tree/master/0268-missing-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -82,12 +85,14 @@ All the dsa question solved by me in the leetcode
 | [0001-two-sum](https://github.com/paraggulve2641/Leetcode_Question/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/paraggulve2641/Leetcode_Question/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/paraggulve2641/Leetcode_Question/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/paraggulve2641/Leetcode_Question/tree/master/0268-missing-number) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/paraggulve2641/Leetcode_Question/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/paraggulve2641/Leetcode_Question/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/paraggulve2641/Leetcode_Question/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/paraggulve2641/Leetcode_Question/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/paraggulve2641/Leetcode_Question/tree/master/0977-squares-of-a-sorted-array) |
 ## Greedy
 |  |
@@ -118,4 +123,8 @@ All the dsa question solved by me in the leetcode
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/paraggulve2641/Leetcode_Question/tree/master/0128-longest-consecutive-sequence) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/paraggulve2641/Leetcode_Question/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
