@@ -11,6 +11,7 @@ All the dsa question solved by me in the leetcode
 | [0268-missing-number](https://github.com/paraggulve2641/Leetcode_Question/tree/master/0268-missing-number) |
 | [0877-stone-game](https://github.com/paraggulve2641/Leetcode_Question/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/paraggulve2641/Leetcode_Question/tree/master/1140-stone-game-ii) |
+| [3360-stone-removal-game](https://github.com/paraggulve2641/Leetcode_Question/tree/master/3360-stone-removal-game) |
 ## Array
 |  |
 | ------- |
@@ -86,6 +87,7 @@ All the dsa question solved by me in the leetcode
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/paraggulve2641/Leetcode_Question/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3360-stone-removal-game](https://github.com/paraggulve2641/Leetcode_Question/tree/master/3360-stone-removal-game) |
 ## Hash Table
 |  |
 | ------- |
