@@ -9,6 +9,7 @@ All the dsa question solved by me in the leetcode
 | [0007-reverse-integer](https://github.com/paraggulve2641/Leetcode_Question/tree/master/0007-reverse-integer) |
 | [0189-rotate-array](https://github.com/paraggulve2641/Leetcode_Question/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/paraggulve2641/Leetcode_Question/tree/master/0268-missing-number) |
+| [0412-fizz-buzz](https://github.com/paraggulve2641/Leetcode_Question/tree/master/0412-fizz-buzz) |
 | [0877-stone-game](https://github.com/paraggulve2641/Leetcode_Question/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/paraggulve2641/Leetcode_Question/tree/master/1140-stone-game-ii) |
 | [2029-stone-game-ix](https://github.com/paraggulve2641/Leetcode_Question/tree/master/2029-stone-game-ix) |
@@ -43,6 +44,7 @@ All the dsa question solved by me in the leetcode
 | [0008-string-to-integer-atoi](https://github.com/paraggulve2641/Leetcode_Question/tree/master/0008-string-to-integer-atoi) |
 | [0125-valid-palindrome](https://github.com/paraggulve2641/Leetcode_Question/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/paraggulve2641/Leetcode_Question/tree/master/0344-reverse-string) |
+| [0412-fizz-buzz](https://github.com/paraggulve2641/Leetcode_Question/tree/master/0412-fizz-buzz) |
 | [0680-valid-palindrome-ii](https://github.com/paraggulve2641/Leetcode_Question/tree/master/0680-valid-palindrome-ii) |
 ## Two Pointers
 |  |
@@ -91,6 +93,7 @@ All the dsa question solved by me in the leetcode
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/paraggulve2641/Leetcode_Question/tree/master/0412-fizz-buzz) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/paraggulve2641/Leetcode_Question/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3360-stone-removal-game](https://github.com/paraggulve2641/Leetcode_Question/tree/master/3360-stone-removal-game) |
 ## Hash Table
