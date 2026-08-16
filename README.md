@@ -11,6 +11,7 @@ All the dsa question solved by me in the leetcode
 | [0268-missing-number](https://github.com/paraggulve2641/Leetcode_Question/tree/master/0268-missing-number) |
 | [0877-stone-game](https://github.com/paraggulve2641/Leetcode_Question/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/paraggulve2641/Leetcode_Question/tree/master/1140-stone-game-ii) |
+| [2029-stone-game-ix](https://github.com/paraggulve2641/Leetcode_Question/tree/master/2029-stone-game-ix) |
 | [3360-stone-removal-game](https://github.com/paraggulve2641/Leetcode_Question/tree/master/3360-stone-removal-game) |
 ## Array
 |  |
@@ -34,6 +35,7 @@ All the dsa question solved by me in the leetcode
 | [0977-squares-of-a-sorted-array](https://github.com/paraggulve2641/Leetcode_Question/tree/master/0977-squares-of-a-sorted-array) |
 | [1140-stone-game-ii](https://github.com/paraggulve2641/Leetcode_Question/tree/master/1140-stone-game-ii) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/paraggulve2641/Leetcode_Question/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [2029-stone-game-ix](https://github.com/paraggulve2641/Leetcode_Question/tree/master/2029-stone-game-ix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/paraggulve2641/Leetcode_Question/tree/master/2149-rearrange-array-elements-by-sign) |
 ## String
 |  |
@@ -73,16 +75,19 @@ All the dsa question solved by me in the leetcode
 | ------- |
 | [0877-stone-game](https://github.com/paraggulve2641/Leetcode_Question/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/paraggulve2641/Leetcode_Question/tree/master/1140-stone-game-ii) |
+| [2029-stone-game-ix](https://github.com/paraggulve2641/Leetcode_Question/tree/master/2029-stone-game-ix) |
 ## Game Theory
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/paraggulve2641/Leetcode_Question/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/paraggulve2641/Leetcode_Question/tree/master/1140-stone-game-ii) |
+| [2029-stone-game-ix](https://github.com/paraggulve2641/Leetcode_Question/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/paraggulve2641/Leetcode_Question/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/paraggulve2641/Leetcode_Question/tree/master/1140-stone-game-ii) |
+| [2029-stone-game-ix](https://github.com/paraggulve2641/Leetcode_Question/tree/master/2029-stone-game-ix) |
 ## Simulation
 |  |
 | ------- |
@@ -108,6 +113,7 @@ All the dsa question solved by me in the leetcode
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/paraggulve2641/Leetcode_Question/tree/master/0680-valid-palindrome-ii) |
+| [2029-stone-game-ix](https://github.com/paraggulve2641/Leetcode_Question/tree/master/2029-stone-game-ix) |
 ## Quicksort
 |  |
 | ------- |
@@ -125,6 +131,7 @@ All the dsa question solved by me in the leetcode
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/paraggulve2641/Leetcode_Question/tree/master/0169-majority-element) |
+| [2029-stone-game-ix](https://github.com/paraggulve2641/Leetcode_Question/tree/master/2029-stone-game-ix) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -145,4 +152,8 @@ All the dsa question solved by me in the leetcode
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/paraggulve2641/Leetcode_Question/tree/master/1140-stone-game-ii) |
+## Nim Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/paraggulve2641/Leetcode_Question/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
