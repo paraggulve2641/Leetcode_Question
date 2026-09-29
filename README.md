@@ -31,6 +31,7 @@ All the dsa question solved by me in the leetcode
 | [0189-rotate-array](https://github.com/paraggulve2641/Leetcode_Question/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/paraggulve2641/Leetcode_Question/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/paraggulve2641/Leetcode_Question/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/paraggulve2641/Leetcode_Question/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/paraggulve2641/Leetcode_Question/tree/master/0485-max-consecutive-ones) |
 | [0877-stone-game](https://github.com/paraggulve2641/Leetcode_Question/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/paraggulve2641/Leetcode_Question/tree/master/0977-squares-of-a-sorted-array) |
@@ -57,6 +58,7 @@ All the dsa question solved by me in the leetcode
 | [0189-rotate-array](https://github.com/paraggulve2641/Leetcode_Question/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/paraggulve2641/Leetcode_Question/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/paraggulve2641/Leetcode_Question/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/paraggulve2641/Leetcode_Question/tree/master/0349-intersection-of-two-arrays) |
 | [0680-valid-palindrome-ii](https://github.com/paraggulve2641/Leetcode_Question/tree/master/0680-valid-palindrome-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/paraggulve2641/Leetcode_Question/tree/master/0977-squares-of-a-sorted-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/paraggulve2641/Leetcode_Question/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -104,6 +106,7 @@ All the dsa question solved by me in the leetcode
 | [0128-longest-consecutive-sequence](https://github.com/paraggulve2641/Leetcode_Question/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/paraggulve2641/Leetcode_Question/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/paraggulve2641/Leetcode_Question/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/paraggulve2641/Leetcode_Question/tree/master/0349-intersection-of-two-arrays) |
 ## Sorting
 |  |
 | ------- |
@@ -111,6 +114,7 @@ All the dsa question solved by me in the leetcode
 | [0088-merge-sorted-array](https://github.com/paraggulve2641/Leetcode_Question/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/paraggulve2641/Leetcode_Question/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/paraggulve2641/Leetcode_Question/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/paraggulve2641/Leetcode_Question/tree/master/0349-intersection-of-two-arrays) |
 | [0977-squares-of-a-sorted-array](https://github.com/paraggulve2641/Leetcode_Question/tree/master/0977-squares-of-a-sorted-array) |
 ## Greedy
 |  |
@@ -147,6 +151,7 @@ All the dsa question solved by me in the leetcode
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/paraggulve2641/Leetcode_Question/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/paraggulve2641/Leetcode_Question/tree/master/0349-intersection-of-two-arrays) |
 ## Matrix
 |  |
 | ------- |
